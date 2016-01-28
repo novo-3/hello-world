@@ -1,2 +1,2 @@
-# hello-world
-first git test
+# hello-earth
+second git test
